@@ -38,7 +38,7 @@ Product.init(
     },
     category_id: {
       type: DataTypes.INTEGER,
-      // foreignkey for referencing catefory's model id
+      // foreignkey for referencing category's model id
     }
   },
   {
